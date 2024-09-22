@@ -27,3 +27,7 @@ benchmark/subjects/*/*/chatafl
 benchmark/subjects/*/*/chatafl-cl1
 benchmark/subjects/*/*/chatafl-cl2
 benchmark/subjects/*/*/aflnet
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
